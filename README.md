@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ### Register no: 212222100024
-### Name:LOKESH RAHUL V V
+### Name: LOKESH RAHUL V V
 ## AIM:
 To implent the program for the implementationof sliding window protocol
 ## ALGORITHM:
