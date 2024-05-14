@@ -1,6 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
-To write a python program for simulating ARP protocols using TCP.
+### Register no: 212222100024
+### Name:LOKESH RAHUL V V
+## AIM:
+To implent the program for the implementationof sliding window protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
